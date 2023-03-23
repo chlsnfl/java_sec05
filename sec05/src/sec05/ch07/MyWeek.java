@@ -1,14 +1,14 @@
-package sec05.ch07;
-
-import java.util.Calendar;
-
-public class MyWeek {
-
-	public static void main(String[] args) {
-		
-		Week today = null;
-		Calendar cal = Calendar.getInstance();
-		int Week = cal.get(Calendar.DAY_OF_WEEK);
+//package sec05.ch07;
+//
+//import java.util.Calendar;
+//
+//public class MyWeek {
+//
+//	public static void main(String[] args) {
+//		
+//		Week today = null;
+//		Calendar cal = Calendar.getInstance();
+//		int Week = cal.get(Calendar.DAY_OF_WEEK);
 		
 //		switch(Week) {
 //		case 1 :
@@ -45,4 +45,4 @@ public class MyWeek {
 //		}
 //	}
 
-}
+
