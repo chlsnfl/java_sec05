@@ -1,6 +1,6 @@
 package sec06.ch07;
 
-public class Test03 {
+public class Test06 {
 
 	public static void main(String[] args) {
 		int[][] array;
